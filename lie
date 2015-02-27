@@ -1,0 +1,2 @@
+LD=/home/inaki/Desktop/Dropbox/lie2
+exec $LD/Lie.exe initfile $LD
